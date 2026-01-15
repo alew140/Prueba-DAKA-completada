@@ -49,7 +49,6 @@ docker-compose -f docker-compose.dev.yml up --build
 
 - **Frontend**: [http://localhost:5173](http://localhost:5173)
 - **Backend API**: [http://localhost:3000](http://localhost:3000)
-- **Swagger Docs**: [http://localhost:3000/api/docs](http://localhost:3000/api/docs)
 
 ### 3. Run in Production/Test Mode
 Simulates a production environment using optimized multi-stage builds and Nginx.
